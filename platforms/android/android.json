@@ -1,0 +1,171 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {
+      "AndroidManifest.xml": {
+        "parents": {
+          "/*": [
+            {
+              "xml": "<uses-permission android:name=\"android.permission.INTERNET\" />",
+              "count": 1
+            },
+            {
+              "xml": "<uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\" />",
+              "count": 1
+            },
+            {
+              "xml": "<uses-permission android:name=\"com.android.vending.BILLING\" />",
+              "count": 1
+            }
+          ],
+          "/manifest/application": [
+            {
+              "xml": "<activity android:configChanges=\"keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize\" android:name=\"com.google.android.gms.ads.AdActivity\" android:theme=\"@android:style/Theme.Translucent\" />",
+              "count": 1
+            },
+            {
+              "xml": "<meta-data android:name=\"com.google.android.gms.games.APP_ID\" android:value=\"@string/app_id\" />",
+              "count": 1
+            }
+          ],
+          "/manifest": [
+            {
+              "xml": "<uses-permission android:name=\"android.permission.INTERNET\" />",
+              "count": 1
+            },
+            {
+              "xml": "<uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\" />",
+              "count": 1
+            }
+          ],
+          "/*/application": []
+        }
+      },
+      "*/billing_key_param.xml": {
+        "parents": {
+          "/*": [
+            {
+              "xml": "<string name=\"billing_key_param\">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAslznssj3ViEr7TEYv2+DIsGRCvwgNvzuz8oV5NyELci8NqxcPRu63tFG/2vKeOBd0S+Z119tCutVc2VdCCoug68AqXDp9O2EI84DnKuDioIIAxRXDBZyJT4ULvKpLhib6kY6EBaVqjwEq/bgvunW4Lj50Ng9xQ75HtFInf9CUV00w09UqDmJTIW+KtkCGI0P3QwyHNOboZwNp7ZnJi3NyrMs3cCzYdWy4fMSCyqB9oya6PWSHDBswDGDrXzKPlTGho2muQjBlfqy3hbvkZncPUVZaX0BCrjYLs7SaIpPux4TfA68ggKwu2FQyhAD4biLPdm6CYQ8qezhoWvZl4JKJwIDAQAB</string>",
+              "count": 1
+            }
+          ]
+        }
+      },
+      "res/xml/config.xml": {
+        "parents": {
+          "/*": [
+            {
+              "xml": "<feature name=\"AdMob\"><param name=\"android-package\" value=\"com.rjfun.cordova.admob.AdMobPlugin\" /><param name=\"onload\" value=\"true\" /></feature>",
+              "count": 1
+            },
+            {
+              "xml": "<feature name=\"PlayGamesServices\"><param name=\"android-package\" value=\"com.berriart.cordova.plugins.PlayGamesServices\" /></feature>",
+              "count": 1
+            },
+            {
+              "xml": "<feature name=\"Whitelist\"><param name=\"android-package\" value=\"org.apache.cordova.whitelist.WhitelistPlugin\" /><param name=\"onload\" value=\"true\" /></feature>",
+              "count": 1
+            },
+            {
+              "xml": "<feature name=\"NativeStorage\"><param name=\"android-package\" value=\"NativeStorage\" /></feature>",
+              "count": 1
+            },
+            {
+              "xml": "<feature name=\"InAppBillingPlugin\"><param name=\"android-package\" value=\"com.smartmobilesoftware.inappbilling.InAppBillingPlugin\" /></feature>",
+              "count": 1
+            }
+          ]
+        }
+      },
+      "res/values/strings.xml": {
+        "parents": {
+          "/resources": [
+            {
+              "xml": "<string name=\"app_id\">865156804041</string>",
+              "count": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "installed_plugins": {
+    "cordova-plugin-extension": {
+      "PACKAGE_NAME": "com.nulligma.TastyTreatPuzzle"
+    },
+    "cordova-plugin-admobpro": {
+      "PLAY_SERVICES_VERSION": "16.0.0",
+      "PACKAGE_NAME": "com.nulligma.TastyTreatPuzzle"
+    },
+    "cordova-plugin-play-games-services": {
+      "APP_ID": "865156804041",
+      "PACKAGE_NAME": "com.nulligma.TastyTreatPuzzle"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.nulligma.TastyTreatPuzzle"
+    },
+    "cordova-plugin-nativestorage": {
+      "PACKAGE_NAME": "com.nulligma.TastyTreatPuzzle"
+    },
+    "cc.fovea.cordova.purchase": {
+      "BILLING_KEY": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAslznssj3ViEr7TEYv2+DIsGRCvwgNvzuz8oV5NyELci8NqxcPRu63tFG/2vKeOBd0S+Z119tCutVc2VdCCoug68AqXDp9O2EI84DnKuDioIIAxRXDBZyJT4ULvKpLhib6kY6EBaVqjwEq/bgvunW4Lj50Ng9xQ75HtFInf9CUV00w09UqDmJTIW+KtkCGI0P3QwyHNOboZwNp7ZnJi3NyrMs3cCzYdWy4fMSCyqB9oya6PWSHDBswDGDrXzKPlTGho2muQjBlfqy3hbvkZncPUVZaX0BCrjYLs7SaIpPux4TfA68ggKwu2FQyhAD4biLPdm6CYQ8qezhoWvZl4JKJwIDAQAB",
+      "PACKAGE_NAME": "com.nulligma.TastyTreatPuzzle"
+    }
+  },
+  "dependent_plugins": {},
+  "modules": [
+    {
+      "id": "cordova-plugin-admobpro.AdMob",
+      "file": "plugins/cordova-plugin-admobpro/www/AdMob.js",
+      "pluginId": "cordova-plugin-admobpro",
+      "clobbers": [
+        "window.AdMob"
+      ]
+    },
+    {
+      "id": "cordova-plugin-play-games-services.PlayGamesServices",
+      "file": "plugins/cordova-plugin-play-games-services/www/play-games-services.js",
+      "pluginId": "cordova-plugin-play-games-services",
+      "clobbers": [
+        "window.plugins.playGamesServices"
+      ]
+    },
+    {
+      "id": "cordova-plugin-nativestorage.mainHandle",
+      "file": "plugins/cordova-plugin-nativestorage/www/mainHandle.js",
+      "pluginId": "cordova-plugin-nativestorage",
+      "clobbers": [
+        "NativeStorage"
+      ]
+    },
+    {
+      "id": "cordova-plugin-nativestorage.LocalStorageHandle",
+      "file": "plugins/cordova-plugin-nativestorage/www/LocalStorageHandle.js",
+      "pluginId": "cordova-plugin-nativestorage"
+    },
+    {
+      "id": "cordova-plugin-nativestorage.NativeStorageError",
+      "file": "plugins/cordova-plugin-nativestorage/www/NativeStorageError.js",
+      "pluginId": "cordova-plugin-nativestorage"
+    },
+    {
+      "id": "cc.fovea.cordova.purchase.InAppBillingPlugin",
+      "file": "plugins/cc.fovea.cordova.purchase/www/store-android.js",
+      "pluginId": "cc.fovea.cordova.purchase",
+      "clobbers": [
+        "store"
+      ]
+    }
+  ],
+  "plugin_metadata": {
+    "cordova-plugin-extension": "1.5.4",
+    "cordova-plugin-admobpro": "2.37.2",
+    "cordova-plugin-play-games-services": "1.1.0",
+    "cordova-plugin-whitelist": "1.3.3",
+    "cordova-plugin-nativestorage": "2.3.2",
+    "cc.fovea.cordova.purchase": "7.2.8"
+  }
+}

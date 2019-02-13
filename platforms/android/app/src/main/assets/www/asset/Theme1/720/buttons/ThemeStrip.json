@@ -1,0 +1,43 @@
+﻿{"frames": {
+
+"ThemeStrip instance 10000":
+{
+	"frame": {"x":0,"y":0,"w":375,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":68},
+	"sourceSize": {"w":375,"h":68}
+},
+"ThemeStrip instance 10001":
+{
+	"frame": {"x":0,"y":72,"w":375,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":68},
+	"sourceSize": {"w":375,"h":68}
+},
+"ThemeStrip instance 10002":
+{
+	"frame": {"x":0,"y":144,"w":375,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":68},
+	"sourceSize": {"w":375,"h":68}
+},
+"ThemeStrip instance 10003":
+{
+	"frame": {"x":0,"y":216,"w":375,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":68},
+	"sourceSize": {"w":375,"h":68}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "ThemeStrip.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

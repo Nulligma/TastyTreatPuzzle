@@ -1,0 +1,59 @@
+﻿{"frames": {
+
+"strawberryCake0000":
+{
+	"frame": {"x":0,"y":0,"w":193,"h":193},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":193},
+	"sourceSize": {"w":193,"h":193}
+},
+"strawberryCake0001":
+{
+	"frame": {"x":197,"y":0,"w":193,"h":193},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":193},
+	"sourceSize": {"w":193,"h":193}
+},
+"strawberryCake0002":
+{
+	"frame": {"x":0,"y":197,"w":193,"h":193},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":193},
+	"sourceSize": {"w":193,"h":193}
+},
+"strawberryCake0003":
+{
+	"frame": {"x":197,"y":197,"w":193,"h":193},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":193},
+	"sourceSize": {"w":193,"h":193}
+},
+"strawberryCake0004":
+{
+	"frame": {"x":0,"y":394,"w":193,"h":193},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":193},
+	"sourceSize": {"w":193,"h":193}
+},
+"strawberryCake0005":
+{
+	"frame": {"x":197,"y":394,"w":193,"h":193},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":193},
+	"sourceSize": {"w":193,"h":193}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.1.119",
+	"image": "strawberryCake.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}

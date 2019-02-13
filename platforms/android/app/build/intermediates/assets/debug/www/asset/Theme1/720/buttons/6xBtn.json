@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"6xBtn0000":
+{
+	"frame": {"x":0,"y":0,"w":85,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":85},
+	"sourceSize": {"w":85,"h":85}
+},
+"6xBtn0001":
+{
+	"frame": {"x":0,"y":89,"w":70,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":1,"w":85,"h":85},
+	"sourceSize": {"w":85,"h":85}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.1.119",
+	"image": "6xBtn.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1"
+}
+}

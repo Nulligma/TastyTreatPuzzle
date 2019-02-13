@@ -1,0 +1,260 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-ads:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-16.0.0.aar\fb7ef6df9b54a7b2270fcb735a4192a7\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-games:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-games-16.0.0.aar\a8f14b5c4f8b89049be78c9e30ca7105\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-plus-16.0.0.aar\68ebe5091fcf8d7d88a2567be775acda\AndroidManifest.xml:17:1-24:12
+MERGED from [:CordovaLib] C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:1-27:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\dcfc099efd3dfaaba741f1ea59f3dcec\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\9fc94cd6e9b9ccba9e4ee0eca416ad71\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-gass-16.0.0.aar\68eff899b3141d4055efbeda115e1c59\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-base:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-16.0.0.aar\e1f712ede6b9a7723995e1c5e16e0242\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\0a1fa939035abdf3f5aeea79d9074893\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-drive-16.0.0.aar\dd9268493971dcabc3f386dfc9ab7fb2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-audience-16.0.0.aar\4f2d1b48ecb611a41754a96953a72a76\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\5d08e760000643a31e8ef18a2201c540\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\4708f18168baca083a61cdd6c65f9728\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\e27704f167e8620d1ee940c71cbc4e06\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8f0cb5b633ab2589a3abd8df683e2a52\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\092d529cdbe9c83330bb08434c3e4876\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\fa95adef492abfae34ba7e23f8aa61d7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1ab4558f792c8b6ee69c1d87578c2cc0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4070f43af2354112539bb441a8115eec\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1b1837d970ee546f8a3a847a364ae08a\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\45191fda0acf2e87c660a062112957d4\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:2:1-18:12
+	package
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:2:102-141
+		INJECTED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:2:74-101
+		INJECTED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:2:142-200
+	android:versionCode
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:2:46-73
+		INJECTED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\9fc94cd6e9b9ccba9e4ee0eca416ad71\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\9fc94cd6e9b9ccba9e4ee0eca416ad71\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:5:5-14:19
+MERGED from [com.google.android.gms:play-services-games:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-games-16.0.0.aar\a8f14b5c4f8b89049be78c9e30ca7105\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-games-16.0.0.aar\a8f14b5c4f8b89049be78c9e30ca7105\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-plus-16.0.0.aar\68ebe5091fcf8d7d88a2567be775acda\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-plus-16.0.0.aar\68ebe5091fcf8d7d88a2567be775acda\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\dcfc099efd3dfaaba741f1ea59f3dcec\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\dcfc099efd3dfaaba741f1ea59f3dcec\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\9fc94cd6e9b9ccba9e4ee0eca416ad71\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\9fc94cd6e9b9ccba9e4ee0eca416ad71\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-gass-16.0.0.aar\68eff899b3141d4055efbeda115e1c59\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-gass-16.0.0.aar\68eff899b3141d4055efbeda115e1c59\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-16.0.0.aar\e1f712ede6b9a7723995e1c5e16e0242\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-16.0.0.aar\e1f712ede6b9a7723995e1c5e16e0242\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\0a1fa939035abdf3f5aeea79d9074893\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\0a1fa939035abdf3f5aeea79d9074893\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-drive-16.0.0.aar\dd9268493971dcabc3f386dfc9ab7fb2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-drive-16.0.0.aar\dd9268493971dcabc3f386dfc9ab7fb2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-audience-16.0.0.aar\4f2d1b48ecb611a41754a96953a72a76\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-audience-16.0.0.aar\4f2d1b48ecb611a41754a96953a72a76\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\5d08e760000643a31e8ef18a2201c540\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\5d08e760000643a31e8ef18a2201c540\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\4708f18168baca083a61cdd6c65f9728\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\4708f18168baca083a61cdd6c65f9728\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\e27704f167e8620d1ee940c71cbc4e06\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\e27704f167e8620d1ee940c71cbc4e06\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8f0cb5b633ab2589a3abd8df683e2a52\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8f0cb5b633ab2589a3abd8df683e2a52\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\092d529cdbe9c83330bb08434c3e4876\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\092d529cdbe9c83330bb08434c3e4876\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\fa95adef492abfae34ba7e23f8aa61d7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\fa95adef492abfae34ba7e23f8aa61d7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1ab4558f792c8b6ee69c1d87578c2cc0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1ab4558f792c8b6ee69c1d87578c2cc0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4070f43af2354112539bb441a8115eec\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4070f43af2354112539bb441a8115eec\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1b1837d970ee546f8a3a847a364ae08a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1b1837d970ee546f8a3a847a364ae08a\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\45191fda0acf2e87c660a062112957d4\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\45191fda0acf2e87c660a062112957d4\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:5:53-80
+activity#com.nulligma.TastyTreatPuzzle.MainActivity
+ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:6:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:12:9-233
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\9fc94cd6e9b9ccba9e4ee0eca416ad71\AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\9fc94cd6e9b9ccba9e4ee0eca416ad71\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\9fc94cd6e9b9ccba9e4ee0eca416ad71\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:12:19-128
+	android:theme
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:12:182-230
+	android:name
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:12:129-181
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:13:9-104
+	android:value
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:13:71-101
+	android:name
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:13:20-70
+uses-sdk
+ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:15:5-74
+INJECTED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:15:5-74
+MERGED from [com.google.android.gms:play-services-ads:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-16.0.0.aar\fb7ef6df9b54a7b2270fcb735a4192a7\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-16.0.0.aar\fb7ef6df9b54a7b2270fcb735a4192a7\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-games:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-games-16.0.0.aar\a8f14b5c4f8b89049be78c9e30ca7105\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-games-16.0.0.aar\a8f14b5c4f8b89049be78c9e30ca7105\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-plus-16.0.0.aar\68ebe5091fcf8d7d88a2567be775acda\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-plus-16.0.0.aar\68ebe5091fcf8d7d88a2567be775acda\AndroidManifest.xml:20:5-44
+MERGED from [:CordovaLib] C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\CordovaLib\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\dcfc099efd3dfaaba741f1ea59f3dcec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\dcfc099efd3dfaaba741f1ea59f3dcec\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\9fc94cd6e9b9ccba9e4ee0eca416ad71\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\9fc94cd6e9b9ccba9e4ee0eca416ad71\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-gass-16.0.0.aar\68eff899b3141d4055efbeda115e1c59\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-gass-16.0.0.aar\68eff899b3141d4055efbeda115e1c59\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-16.0.0.aar\e1f712ede6b9a7723995e1c5e16e0242\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-16.0.0.aar\e1f712ede6b9a7723995e1c5e16e0242\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\0a1fa939035abdf3f5aeea79d9074893\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\0a1fa939035abdf3f5aeea79d9074893\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-drive-16.0.0.aar\dd9268493971dcabc3f386dfc9ab7fb2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-drive-16.0.0.aar\dd9268493971dcabc3f386dfc9ab7fb2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-audience-16.0.0.aar\4f2d1b48ecb611a41754a96953a72a76\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-audience-16.0.0.aar\4f2d1b48ecb611a41754a96953a72a76\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\5d08e760000643a31e8ef18a2201c540\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\5d08e760000643a31e8ef18a2201c540\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\4708f18168baca083a61cdd6c65f9728\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\4708f18168baca083a61cdd6c65f9728\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\e27704f167e8620d1ee940c71cbc4e06\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\e27704f167e8620d1ee940c71cbc4e06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8f0cb5b633ab2589a3abd8df683e2a52\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8f0cb5b633ab2589a3abd8df683e2a52\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\092d529cdbe9c83330bb08434c3e4876\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\092d529cdbe9c83330bb08434c3e4876\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\fa95adef492abfae34ba7e23f8aa61d7\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\fa95adef492abfae34ba7e23f8aa61d7\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1ab4558f792c8b6ee69c1d87578c2cc0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1ab4558f792c8b6ee69c1d87578c2cc0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4070f43af2354112539bb441a8115eec\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4070f43af2354112539bb441a8115eec\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1b1837d970ee546f8a3a847a364ae08a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1b1837d970ee546f8a3a847a364ae08a\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\45191fda0acf2e87c660a062112957d4\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\45191fda0acf2e87c660a062112957d4\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:15:5-74
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-16.0.0.aar\fb7ef6df9b54a7b2270fcb735a4192a7\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:15:42-71
+	android:minSdkVersion
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:15:15-41
+		INJECTED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#com.android.vending.BILLING
+ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:17:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\9fc94cd6e9b9ccba9e4ee0eca416ad71\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-16.0.0.aar\9fc94cd6e9b9ccba9e4ee0eca416ad71\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\shant\Desktop\Projects\HTML\TastyTreatPuzzle\platforms\android\app\src\main\AndroidManifest.xml:17:22-76
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\dcfc099efd3dfaaba741f1ea59f3dcec\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8f0cb5b633ab2589a3abd8df683e2a52\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8f0cb5b633ab2589a3abd8df683e2a52\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\092d529cdbe9c83330bb08434c3e4876\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\092d529cdbe9c83330bb08434c3e4876\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\fa95adef492abfae34ba7e23f8aa61d7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\fa95adef492abfae34ba7e23f8aa61d7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1ab4558f792c8b6ee69c1d87578c2cc0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\1ab4558f792c8b6ee69c1d87578c2cc0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4070f43af2354112539bb441a8115eec\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4070f43af2354112539bb441a8115eec\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1b1837d970ee546f8a3a847a364ae08a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1b1837d970ee546f8a3a847a364ae08a\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\dcfc099efd3dfaaba741f1ea59f3dcec\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\dcfc099efd3dfaaba741f1ea59f3dcec\AndroidManifest.xml:24:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\5d08e760000643a31e8ef18a2201c540\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\5d08e760000643a31e8ef18a2201c540\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\5d08e760000643a31e8ef18a2201c540\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\5d08e760000643a31e8ef18a2201c540\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\e27704f167e8620d1ee940c71cbc4e06\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\e27704f167e8620d1ee940c71cbc4e06\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\e27704f167e8620d1ee940c71cbc4e06\AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\45191fda0acf2e87c660a062112957d4\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\45191fda0acf2e87c660a062112957d4\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shant\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\45191fda0acf2e87c660a062112957d4\AndroidManifest.xml:26:13-58

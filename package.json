@@ -1,0 +1,37 @@
+{
+    "name": "com.nulligma.tastytreatpuzzle",
+    "displayName": "TastyTreatPuzzle",
+    "version": "1.0.0",
+    "description": "A sample Apache Cordova application that responds to the deviceready event.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Apache Cordova Team",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "cc.fovea.cordova.purchase": "^7.2.8",
+        "cordova-android": "^7.1.4",
+        "cordova-plugin-admobpro": "^2.37.2",
+        "cordova-plugin-extension": "^1.5.4",
+        "cordova-plugin-nativestorage": "^2.3.2",
+        "cordova-plugin-play-games-services": "^1.1.0",
+        "cordova-plugin-whitelist": "^1.3.3"
+    },
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-whitelist": {},
+            "cordova-plugin-admobpro": {},
+            "cordova-plugin-play-games-services": {
+                "APP_ID": "865156804041"
+            },
+            "cordova-plugin-nativestorage": {},
+            "cc.fovea.cordova.purchase": {
+                "BILLING_KEY": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAslznssj3ViEr7TEYv2+DIsGRCvwgNvzuz8oV5NyELci8NqxcPRu63tFG/2vKeOBd0S+Z119tCutVc2VdCCoug68AqXDp9O2EI84DnKuDioIIAxRXDBZyJT4ULvKpLhib6kY6EBaVqjwEq/bgvunW4Lj50Ng9xQ75HtFInf9CUV00w09UqDmJTIW+KtkCGI0P3QwyHNOboZwNp7ZnJi3NyrMs3cCzYdWy4fMSCyqB9oya6PWSHDBswDGDrXzKPlTGho2muQjBlfqy3hbvkZncPUVZaX0BCrjYLs7SaIpPux4TfA68ggKwu2FQyhAD4biLPdm6CYQ8qezhoWvZl4JKJwIDAQAB"
+            }
+        },
+        "platforms": [
+            "android"
+        ]
+    }
+}

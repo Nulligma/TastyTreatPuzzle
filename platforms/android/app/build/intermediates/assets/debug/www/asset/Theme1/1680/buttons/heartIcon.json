@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"heartIcon0000":
+{
+	"frame": {"x":0,"y":0,"w":153,"h":139},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":139},
+	"sourceSize": {"w":153,"h":139}
+},
+"heartIcon0001":
+{
+	"frame": {"x":0,"y":143,"w":153,"h":139},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":139},
+	"sourceSize": {"w":153,"h":139}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.1.119",
+	"image": "heartIcon.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1"
+}
+}

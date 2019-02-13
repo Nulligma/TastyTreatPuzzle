@@ -1,0 +1,64 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-admobpro": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-admobpro"
+    },
+    "is_top_level": true,
+    "variables": {
+      "PLAY_SERVICES_VERSION": "16.0.0"
+    }
+  },
+  "cordova-plugin-play-games-services": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-play-games-services"
+    },
+    "is_top_level": true,
+    "variables": {
+      "APP_ID": "865156804041"
+    }
+  },
+  "cordova-plugin-extension": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-extension"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-nativestorage": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-nativestorage"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "es6-promise-plugin": {
+    "source": {
+      "type": "registry",
+      "id": "es6-promise-plugin@^4.1.0"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cc.fovea.cordova.purchase": {
+    "source": {
+      "type": "registry",
+      "id": "cc.fovea.cordova.purchase"
+    },
+    "is_top_level": true,
+    "variables": {
+      "BILLING_KEY": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAslznssj3ViEr7TEYv2+DIsGRCvwgNvzuz8oV5NyELci8NqxcPRu63tFG/2vKeOBd0S+Z119tCutVc2VdCCoug68AqXDp9O2EI84DnKuDioIIAxRXDBZyJT4ULvKpLhib6kY6EBaVqjwEq/bgvunW4Lj50Ng9xQ75HtFInf9CUV00w09UqDmJTIW+KtkCGI0P3QwyHNOboZwNp7ZnJi3NyrMs3cCzYdWy4fMSCyqB9oya6PWSHDBswDGDrXzKPlTGho2muQjBlfqy3hbvkZncPUVZaX0BCrjYLs7SaIpPux4TfA68ggKwu2FQyhAD4biLPdm6CYQ8qezhoWvZl4JKJwIDAQAB"
+    }
+  }
+}

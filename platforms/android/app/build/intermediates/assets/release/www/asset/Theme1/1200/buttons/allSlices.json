@@ -1,0 +1,91 @@
+﻿{"frames": {
+
+"allSlices0000":
+{
+	"frame": {"x":0,"y":0,"w":123,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":122},
+	"sourceSize": {"w":124,"h":122}
+},
+"allSlices0001":
+{
+	"frame": {"x":127,"y":0,"w":123,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":122},
+	"sourceSize": {"w":124,"h":122}
+},
+"allSlices0002":
+{
+	"frame": {"x":254,"y":0,"w":123,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":122},
+	"sourceSize": {"w":124,"h":122}
+},
+"allSlices0003":
+{
+	"frame": {"x":381,"y":0,"w":123,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":122},
+	"sourceSize": {"w":124,"h":122}
+},
+"allSlices0004":
+{
+	"frame": {"x":0,"y":125,"w":124,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":122},
+	"sourceSize": {"w":124,"h":122}
+},
+"allSlices0005":
+{
+	"frame": {"x":128,"y":125,"w":124,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":122},
+	"sourceSize": {"w":124,"h":122}
+},
+"allSlices0006":
+{
+	"frame": {"x":256,"y":125,"w":123,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":124,"h":122},
+	"sourceSize": {"w":124,"h":122}
+},
+"allSlices0007":
+{
+	"frame": {"x":383,"y":125,"w":123,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":122},
+	"sourceSize": {"w":124,"h":122}
+},
+"allSlices0008":
+{
+	"frame": {"x":0,"y":250,"w":123,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":122},
+	"sourceSize": {"w":124,"h":122}
+},
+"allSlices0009":
+{
+	"frame": {"x":127,"y":250,"w":123,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":122},
+	"sourceSize": {"w":124,"h":122}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.1.119",
+	"image": "allSlices.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

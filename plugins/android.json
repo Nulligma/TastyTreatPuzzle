@@ -1,0 +1,34 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-admobpro": {
+      "PLAY_SERVICES_VERSION": "16.0.0",
+      "PACKAGE_NAME": "com.nulligma.TastyTreatPuzzle"
+    },
+    "cordova-plugin-play-games-services": {
+      "APP_ID": "865156804041",
+      "PACKAGE_NAME": "com.nulligma.TastyTreatPuzzle"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.nulligma.TastyTreatPuzzle"
+    },
+    "cordova-plugin-nativestorage": {
+      "PACKAGE_NAME": "com.nulligma.TastyTreatPuzzle"
+    },
+    "cc.fovea.cordova.purchase": {
+      "BILLING_KEY": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAslznssj3ViEr7TEYv2+DIsGRCvwgNvzuz8oV5NyELci8NqxcPRu63tFG/2vKeOBd0S+Z119tCutVc2VdCCoug68AqXDp9O2EI84DnKuDioIIAxRXDBZyJT4ULvKpLhib6kY6EBaVqjwEq/bgvunW4Lj50Ng9xQ75HtFInf9CUV00w09UqDmJTIW+KtkCGI0P3QwyHNOboZwNp7ZnJi3NyrMs3cCzYdWy4fMSCyqB9oya6PWSHDBswDGDrXzKPlTGho2muQjBlfqy3hbvkZncPUVZaX0BCrjYLs7SaIpPux4TfA68ggKwu2FQyhAD4biLPdm6CYQ8qezhoWvZl4JKJwIDAQAB",
+      "PACKAGE_NAME": "com.nulligma.TastyTreatPuzzle"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-extension": {
+      "PACKAGE_NAME": "com.nulligma.TastyTreatPuzzle"
+    }
+  }
+}

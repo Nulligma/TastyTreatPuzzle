@@ -1,0 +1,19 @@
+﻿{"frames": {
+
+"heartsCountBG0000":
+{
+	"frame": {"x":0,"y":0,"w":85,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":173},
+	"sourceSize": {"w":85,"h":173}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.1.119",
+	"image": "heartsCountBG.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1"
+}
+}

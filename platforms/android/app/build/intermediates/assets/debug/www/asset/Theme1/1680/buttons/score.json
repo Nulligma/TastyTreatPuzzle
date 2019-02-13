@@ -1,0 +1,91 @@
+﻿{"frames": {
+
+"digits instance 10000":
+{
+	"frame": {"x":0,"y":0,"w":101,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":101,"h":122},
+	"sourceSize": {"w":101,"h":122}
+},
+"digits instance 10001":
+{
+	"frame": {"x":105,"y":0,"w":86,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":101,"h":122},
+	"sourceSize": {"w":101,"h":122}
+},
+"digits instance 10002":
+{
+	"frame": {"x":195,"y":0,"w":98,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":101,"h":122},
+	"sourceSize": {"w":101,"h":122}
+},
+"digits instance 10003":
+{
+	"frame": {"x":297,"y":0,"w":98,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":101,"h":122},
+	"sourceSize": {"w":101,"h":122}
+},
+"digits instance 10004":
+{
+	"frame": {"x":399,"y":0,"w":100,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":101,"h":122},
+	"sourceSize": {"w":101,"h":122}
+},
+"digits instance 10005":
+{
+	"frame": {"x":0,"y":126,"w":98,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":101,"h":122},
+	"sourceSize": {"w":101,"h":122}
+},
+"digits instance 10006":
+{
+	"frame": {"x":102,"y":126,"w":97,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":101,"h":122},
+	"sourceSize": {"w":101,"h":122}
+},
+"digits instance 10007":
+{
+	"frame": {"x":203,"y":126,"w":100,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":101,"h":122},
+	"sourceSize": {"w":101,"h":122}
+},
+"digits instance 10008":
+{
+	"frame": {"x":307,"y":126,"w":100,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":101,"h":122},
+	"sourceSize": {"w":101,"h":122}
+},
+"digits instance 10009":
+{
+	"frame": {"x":411,"y":126,"w":96,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":101,"h":122},
+	"sourceSize": {"w":101,"h":122}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "score.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

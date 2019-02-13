@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"cancelBtn0000":
+{
+	"frame": {"x":0,"y":0,"w":81,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":90},
+	"sourceSize": {"w":81,"h":90}
+},
+"cancelBtn0001":
+{
+	"frame": {"x":0,"y":94,"w":81,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":90},
+	"sourceSize": {"w":81,"h":90}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.1.119",
+	"image": "cancelBtn.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1"
+}
+}

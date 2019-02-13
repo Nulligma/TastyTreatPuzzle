@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.nulligma.TastyTreatPuzzle" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>TastyTreatPuzzle</name>
+    <description>
+        Match 2 puzzle game
+    </description>
+    <author email="admin@nulligma.com" href="http://nulligma.com">
+        Nulligma
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+        <icon density="ldpi" src="res/icon/android/icon-36-ldpi.png" />
+        <icon density="mdpi" src="res/icon/android/icon-48-mdpi.png" />
+        <icon density="hdpi" src="res/icon/android/icon-72-hdpi.png" />
+        <icon density="xhdpi" src="res/icon/android/icon-96-xhdpi.png" />
+    </platform>
+    <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+    </platform>
+    <plugin name="cordova-plugin-whitelist" spec="^1.3.3" />
+    <plugin name="cordova-plugin-admobpro" spec="^2.37.2" />
+    <plugin name="cordova-plugin-play-games-services" spec="^1.1.0">
+        <variable name="APP_ID" value="865156804041" />
+    </plugin>
+    <plugin name="cordova-plugin-nativestorage" spec="^2.3.2" />
+    <plugin name="cc.fovea.cordova.purchase" spec="^7.2.8">
+        <variable name="BILLING_KEY" value="MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAslznssj3ViEr7TEYv2+DIsGRCvwgNvzuz8oV5NyELci8NqxcPRu63tFG/2vKeOBd0S+Z119tCutVc2VdCCoug68AqXDp9O2EI84DnKuDioIIAxRXDBZyJT4ULvKpLhib6kY6EBaVqjwEq/bgvunW4Lj50Ng9xQ75HtFInf9CUV00w09UqDmJTIW+KtkCGI0P3QwyHNOboZwNp7ZnJi3NyrMs3cCzYdWy4fMSCyqB9oya6PWSHDBswDGDrXzKPlTGho2muQjBlfqy3hbvkZncPUVZaX0BCrjYLs7SaIpPux4TfA68ggKwu2FQyhAD4biLPdm6CYQ8qezhoWvZl4JKJwIDAQAB" />
+    </plugin>
+    <engine name="android" spec="^7.1.4" />
+</widget>

@@ -1,0 +1,91 @@
+﻿{"frames": {
+
+"digits instance 10000":
+{
+	"frame": {"x":0,"y":0,"w":44,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":52},
+	"sourceSize": {"w":44,"h":52}
+},
+"digits instance 10001":
+{
+	"frame": {"x":48,"y":0,"w":38,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":44,"h":52},
+	"sourceSize": {"w":44,"h":52}
+},
+"digits instance 10002":
+{
+	"frame": {"x":90,"y":0,"w":42,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":44,"h":52},
+	"sourceSize": {"w":44,"h":52}
+},
+"digits instance 10003":
+{
+	"frame": {"x":136,"y":0,"w":42,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":44,"h":52},
+	"sourceSize": {"w":44,"h":52}
+},
+"digits instance 10004":
+{
+	"frame": {"x":182,"y":0,"w":44,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":52},
+	"sourceSize": {"w":44,"h":52}
+},
+"digits instance 10005":
+{
+	"frame": {"x":0,"y":56,"w":42,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":44,"h":52},
+	"sourceSize": {"w":44,"h":52}
+},
+"digits instance 10006":
+{
+	"frame": {"x":46,"y":56,"w":42,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":44,"h":52},
+	"sourceSize": {"w":44,"h":52}
+},
+"digits instance 10007":
+{
+	"frame": {"x":92,"y":56,"w":44,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":52},
+	"sourceSize": {"w":44,"h":52}
+},
+"digits instance 10008":
+{
+	"frame": {"x":140,"y":56,"w":44,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":52},
+	"sourceSize": {"w":44,"h":52}
+},
+"digits instance 10009":
+{
+	"frame": {"x":188,"y":56,"w":42,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":44,"h":52},
+	"sourceSize": {"w":44,"h":52}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "score.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

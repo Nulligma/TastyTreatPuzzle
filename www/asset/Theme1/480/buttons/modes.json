@@ -1,0 +1,35 @@
+﻿{"frames": {
+
+"modes0000":
+{
+	"frame": {"x":0,"y":0,"w":23,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":33,"h":21},
+	"sourceSize": {"w":33,"h":21}
+},
+"modes0001":
+{
+	"frame": {"x":27,"y":0,"w":23,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":33,"h":21},
+	"sourceSize": {"w":33,"h":21}
+},
+"modes0002":
+{
+	"frame": {"x":0,"y":25,"w":33,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":21},
+	"sourceSize": {"w":33,"h":21}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "modes.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":64},
+	"scale": "1"
+}
+}

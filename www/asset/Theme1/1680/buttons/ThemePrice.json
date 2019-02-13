@@ -1,0 +1,35 @@
+﻿{"frames": {
+
+"ThemePrice0000":
+{
+	"frame": {"x":0,"y":0,"w":225,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":234,"h":101},
+	"sourceSize": {"w":234,"h":101}
+},
+"ThemePrice0001":
+{
+	"frame": {"x":0,"y":105,"w":234,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":101},
+	"sourceSize": {"w":234,"h":101}
+},
+"ThemePrice0002":
+{
+	"frame": {"x":0,"y":105,"w":234,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":101},
+	"sourceSize": {"w":234,"h":101}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.1.0.226",
+	"image": "ThemePrice.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"pmBtn0000":
+{
+	"frame": {"x":0,"y":0,"w":130,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":39},
+	"sourceSize": {"w":130,"h":39}
+},
+"pmBtn0001":
+{
+	"frame": {"x":0,"y":43,"w":130,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":39},
+	"sourceSize": {"w":130,"h":39}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.1.119",
+	"image": "pmBtn.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

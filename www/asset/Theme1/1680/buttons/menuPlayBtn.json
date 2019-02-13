@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"menuPlayBtn0000":
+{
+	"frame": {"x":0,"y":0,"w":201,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":210},
+	"sourceSize": {"w":201,"h":210}
+},
+"menuPlayBtn0001":
+{
+	"frame": {"x":0,"y":214,"w":201,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":210},
+	"sourceSize": {"w":201,"h":210}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.1.119",
+	"image": "menuPlayBtn.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1"
+}
+}

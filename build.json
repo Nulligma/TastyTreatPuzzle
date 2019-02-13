@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "./keystore/android-keystore-for-nulligma.keystore",
+            "storePassword": "shantanu007",
+            "alias": "Nulligma-Android",
+            "password" : "shantanu007",
+            "keystoreType": ""
+        },
+        "release": {
+            "keystore": "./keystore/android-keystore-for-nulligma.keystore",
+            "storePassword": "shantanu007",
+            "alias": "Nulligma-Android",
+            "password" : "shantanu007",
+            "keystoreType": ""
+        }
+    }
+}

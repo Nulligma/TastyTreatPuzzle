@@ -1,0 +1,35 @@
+﻿{"frames": {
+
+"diffTxt0000":
+{
+	"frame": {"x":0,"y":0,"w":161,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":39},
+	"sourceSize": {"w":161,"h":39}
+},
+"diffTxt0001":
+{
+	"frame": {"x":0,"y":41,"w":161,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":39},
+	"sourceSize": {"w":161,"h":39}
+},
+"diffTxt0002":
+{
+	"frame": {"x":0,"y":82,"w":161,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":39},
+	"sourceSize": {"w":161,"h":39}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.1.119",
+	"image": "diffTxt.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

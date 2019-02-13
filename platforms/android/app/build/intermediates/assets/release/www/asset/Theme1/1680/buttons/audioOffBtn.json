@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"audioOffBtn0000":
+{
+	"frame": {"x":0,"y":0,"w":185,"h":185},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":185},
+	"sourceSize": {"w":185,"h":185}
+},
+"audioOffBtn0001":
+{
+	"frame": {"x":0,"y":189,"w":182,"h":185},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":185,"h":185},
+	"sourceSize": {"w":185,"h":185}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.1.119",
+	"image": "audioOffBtn.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1"
+}
+}

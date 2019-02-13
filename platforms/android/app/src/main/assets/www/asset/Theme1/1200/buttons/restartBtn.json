@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"restartBtn0000":
+{
+	"frame": {"x":0,"y":0,"w":134,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":134,"h":151},
+	"sourceSize": {"w":134,"h":151}
+},
+"restartBtn0001":
+{
+	"frame": {"x":0,"y":155,"w":134,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":134,"h":151},
+	"sourceSize": {"w":134,"h":151}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.1.119",
+	"image": "restartBtn.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1"
+}
+}
